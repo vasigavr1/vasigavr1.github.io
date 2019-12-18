@@ -13,7 +13,7 @@ redirect_from:
 
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi. 2020. 
 __Kite: Efficient and Available Release Consistency for the Datacenter__. In PPoPP ’20 : 
-Principles and Practice of Parallel Programming 2020
+Principles and Practice of Parallel Programming 2020,
 February 22–26, 2020, San Diego, California, US. ACM, New York, NY, USA, 16 pages. 
 [pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Kite_PPoPP.pdf)
 
@@ -31,7 +31,7 @@ Lausanne, Switzerland, March 16–20, 2020 (ASPLOS’20), 18 pages
 Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Grot, and Vijay Nagarajan. 2018. 
 __Scale-Out ccNUMA: Exploiting Skew with Strongly Consistent Caching__. In EuroSys ’18: Thirteenth EuroSys Conference 2018, 
 April 23–26, 2018, Porto, Portugal. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3190508.3190550
-[pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Scale-out-ccNUMA.pdf)
+[pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Scale-out-ccNUMA.pdf) [slides](https://www.slideshare.net/AntoniosKatsarakis/scaleout-ccnuma-eurosys18)
 
 
 About
