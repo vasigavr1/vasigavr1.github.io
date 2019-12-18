@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Vasilis Gavrielatos homepage forked from [academicpages template](https://github.com/academicpages/academicpages.github.io). 
+This homepage is forked from [academicpages template](https://github.com/academicpages/academicpages.github.io). 
  
 
 News
