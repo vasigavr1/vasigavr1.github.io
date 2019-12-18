@@ -12,7 +12,8 @@ redirect_from:
  
 
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi. 2020. 
-__Kite: Efficient and Available Release Consistency for the Datacenter__. In PPoPP ’20 
+__Kite: Efficient and Available Release Consistency for the Datacenter__. In PPoPP ’20 : 
+Principles and Practice of Parallel Programming 2020
 February 22–26, 2020, San Diego, California, US. ACM, New York, NY, USA, 16 pages.
 
 Mahesh Dananjaya, Vasilis Gavrielatos, Vijay Nagarajan, Arpit Joshi. 2020. __Lazy Release Persistency__. 
