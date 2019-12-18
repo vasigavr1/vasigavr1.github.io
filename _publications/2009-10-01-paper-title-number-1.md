@@ -5,12 +5,12 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'EuroSys '18 Proceedings of the Thirteenth EuroSys Conference'
-paperurl: 'https://dl.acm.org/citation.cfm?id=3190550'
+paperurl: 'http://vasigavr1.github.io/files/a21-gavrielatos.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://vasigavr1.github.io/files/a21-gavrielatos.pdf)
 
 Recommended citation: Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris
                       Grot, and Vijay Nagarajan. 2018. Scale-Out ccNUMA: Exploiting Skew with
