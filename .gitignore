@@ -1,2 +1,3 @@
 _site/
-
+.idea/
+cmake-build-debug/
