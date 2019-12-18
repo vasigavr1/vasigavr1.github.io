@@ -18,8 +18,15 @@ News
 Publications
 ======
 
+Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan,  Boris Grot, and Arpit Joshi. 2020. 
+Kite: Efficient and Available Release Consistency for the Datacenter. In PPoPP ’20 
+February 22–26, 2020, San Diego, California, US. ACM, New York, NY, USA, 16 pages.
 
 
+Antonios Katsarakis, Vasilis Gavrielatos, M. R. Siavash Katebzadeh,Arpit Joshi, Aleksandar Dragojevic, Boris Grot, 
+Vijay Nagarajan. 2020. Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol. 
+In Proceedings of Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, 
+Lausanne, Switzerland, March 16–20, 2020 (ASPLOS’20), 18 pages
 
 
 Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Grot, and Vijay Nagarajan. 2018. 
