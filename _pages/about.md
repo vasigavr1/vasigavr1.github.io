@@ -1,20 +1,15 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "Publications"
+excerpt: "Publications"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This homepage is forked from [academicpages template](https://github.com/academicpages/academicpages.github.io). 
+
  
-
-
-
-Publications
-======
 
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan,  Boris Grot, and Arpit Joshi. 2020. 
 Kite: Efficient and Available Release Consistency for the Datacenter. In PPoPP ’20 
@@ -36,3 +31,7 @@ Scale-Out ccNUMA: Exploiting Skew with Strongly Consistent Caching. In EuroSys �
 April 23–26, 2018, Porto, Portugal. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3190508.3190550
 
 
+
+About
+======
+This homepage is forked from [academicpages template](https://github.com/academicpages/academicpages.github.io). 
