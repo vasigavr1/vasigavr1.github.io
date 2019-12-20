@@ -12,19 +12,19 @@ redirect_from:
  
 
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi. 2020. 
-__Kite: Efficient and Available Release Consistency for the Datacenter__. In PPoPP ’20 : 
+__Kite: Efficient and Available Release Consistency for the Datacenter__. Accepted in PPoPP ’20 : 
 Principles and Practice of Parallel Programming 2020,
 February 22–26, 2020, San Diego, California, US. ACM, New York, NY, USA, 16 pages. 
 [pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Kite_PPoPP.pdf)
 
 Mahesh Dananjaya, Vasilis Gavrielatos, Vijay Nagarajan, Arpit Joshi. 2020. __Lazy Release Persistency__. 
-In Proceedings of Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, 
+Accepted in Proceedings of Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, 
 Lausanne, Switzerland, March 16–20, 2020 (ASPLOS’20), 18 pages
 
 
 Antonios Katsarakis, Vasilis Gavrielatos, M. R. Siavash Katebzadeh, Arpit Joshi, Aleksandar Dragojevic, Boris Grot, 
 Vijay Nagarajan. 2020. __Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol__. 
-In Proceedings of Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, 
+Conditionally accepted in Proceedings of Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, 
 Lausanne, Switzerland, March 16–20, 2020 (ASPLOS’20), 18 pages
 
 
