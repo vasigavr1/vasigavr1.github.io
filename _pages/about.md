@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Publications"
-excerpt: "Publications"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,13 @@ redirect_from:
 ---
 
 
- 
+__Position__: PhD student at the University of Edinburgh, supervised by Vijay Nagarajan ([Vijay's homepage](https://homepages.inf.ed.ac.uk/vnagaraj/))
 
+__Interests__: Consistency enforcement in distributed systems (i.e. replication protocols) and multiprocessors (coherence protocols).
+
+
+Publications
+======
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi. 2020. 
 __Kite: Efficient and Available Release Consistency for the Datacenter__. Accepted in PPoPP ’20 : 
 Principles and Practice of Parallel Programming 2020,
@@ -34,6 +39,7 @@ April 23–26, 2018, Porto, Portugal. ACM, New York, NY, USA, 15 pages. https://
 [pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Scale-out-ccNUMA.pdf) [slides](https://www.slideshare.net/AntoniosKatsarakis/scaleout-ccnuma-eurosys18)
 
 
-About
-======
-This homepage is forked from [academicpages template](https://github.com/academicpages/academicpages.github.io). 
+
+
+
+This homepage is forked from the [academic-pages template](https://github.com/academicpages/academicpages.github.io). 
