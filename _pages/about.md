@@ -11,7 +11,7 @@ redirect_from:
 
 __Position__: PhD student at the University of Edinburgh, supervised by Vijay Nagarajan ([Vijay's homepage](https://homepages.inf.ed.ac.uk/vnagaraj/))
 
-__Interests__: Consistency enforcement in distributed systems (i.e. replication protocols) and multiprocessors (coherence protocols).
+__Interests__: Consistency enforcement in distributed systems (aka replication protocols) and multiprocessors (aka coherence protocols).
 
 
 Publications
