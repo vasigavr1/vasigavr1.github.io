@@ -17,25 +17,21 @@ __Interests__: Consistency enforcement in distributed systems (aka replication p
 Publications
 ======
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi. 2020. 
-__Kite: Efficient and Available Release Consistency for the Datacenter__. Accepted in PPoPP ’20 : 
-Principles and Practice of Parallel Programming 2020,
-February 22–26, 2020, San Diego, California, US. ACM, New York, NY, USA, 16 pages. 
+__Kite: Efficient and Available Release Consistency for the Datacenter__. PPoPP ’20 
 [pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Kite_PPoPP.pdf)
-
-Mahesh Dananjaya, Vasilis Gavrielatos, Vijay Nagarajan, Arpit Joshi. 2020. __Lazy Release Persistency__. 
-Accepted in Proceedings of Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, 
-Lausanne, Switzerland, March 16–20, 2020 (ASPLOS’20), 18 pages
 
 
 Antonios Katsarakis, Vasilis Gavrielatos, M. R. Siavash Katebzadeh, Arpit Joshi, Aleksandar Dragojevic, Boris Grot, 
 Vijay Nagarajan. 2020. __Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol__. 
-Conditionally accepted in Proceedings of Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, 
-Lausanne, Switzerland, March 16–20, 2020 (ASPLOS’20), 18 pages
+ASPLOS’20 [pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Hermes-ASPLOS20.pdf)
+
+
+Mahesh Dananjaya, Vasilis Gavrielatos, Vijay Nagarajan, Arpit Joshi. 2020. __Lazy Release Persistency__. 
+ASPLOS’20 [pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/LRP-ASPLOS20.pdf)
 
 
 Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Grot, and Vijay Nagarajan. 2018. 
-__Scale-Out ccNUMA: Exploiting Skew with Strongly Consistent Caching__. In EuroSys ’18: Thirteenth EuroSys Conference 2018, 
-April 23–26, 2018, Porto, Portugal. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3190508.3190550
+__Scale-Out ccNUMA: Exploiting Skew with Strongly Consistent Caching__. EuroSys ’18
 [pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Scale-out-ccNUMA.pdf) [slides](https://www.slideshare.net/AntoniosKatsarakis/scaleout-ccnuma-eurosys18)
 
 
