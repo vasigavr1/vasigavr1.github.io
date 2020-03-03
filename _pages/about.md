@@ -18,7 +18,9 @@ Publications
 ======
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi. 2020. 
 __Kite: Efficient and Available Release Consistency for the Datacenter__. PPoPP ’20 
+<span style="color: orangered;"> best paper nominee </span>
 [pdf link](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Kite_PPoPP.pdf)
+[code](https://github.com/icsa-caps/Kite)
 
 
 Antonios Katsarakis, Vasilis Gavrielatos, M. R. Siavash Katebzadeh, Arpit Joshi, Aleksandar Dragojevic, Boris Grot, 
