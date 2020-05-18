@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-__Position__: PhD student at the University of Edinburgh, supervised by Vijay Nagarajan ([Vijay's homepage](https://homepages.inf.ed.ac.uk/vnagaraj/))
+__Position__: PhD student at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/))
 
 __Interests__: Consistency enforcement in distributed systems (aka replication protocols) and multiprocessors (aka coherence protocols).
 
@@ -37,7 +37,7 @@ __Kite: Efficient and Available Release Consistency for the Datacenter__. PPoPP 
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi.  
 [pdf](https://github.com/vasigavr1/vasigavr1.github.io/blob/master/files/Kite_PPoPP.pdf)
 [slides](https://www.slideshare.net/VasilisGavrielatos/kite-efficient-and-available-release-consistency-for-the-datacenter)
-[code](https://github.com/icsa-caps/Kite)
+[code](https://github.com/vasigavr1/Kite)
 
 
 __Scale-Out ccNUMA: Exploiting Skew with Strongly Consistent Caching__. EuroSys ’18.  
