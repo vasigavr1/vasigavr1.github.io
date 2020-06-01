@@ -22,7 +22,7 @@ Publications
 ASPLOS’20.  
 Antonios Katsarakis, Vasilis Gavrielatos, M. R. Siavash Katebzadeh, Arpit Joshi, Aleksandar Dragojevic, Boris Grot, 
 Vijay Nagarajan.  
-[pdf](vasigavr1.github.io/files/Hermes-ASPLOS20.pdf) 
+[pdf](./files/Hermes-ASPLOS20.pdf) 
 [slides](https://www.slideshare.net/AntoniosKatsarakis/hermes-reliable-replication-protocol)
 [video](https://www.youtube.com/watch?v=5HwOdAjqEdE&amp=&index=8&amp=&t=0s)
 [webpage](https://hermes-protocol.com/)
@@ -30,7 +30,7 @@ Vijay Nagarajan.
 
 __Lazy Release Persistency__. ASPLOS’20.  
 Mahesh Dananjaya, Vasilis Gavrielatos, Vijay Nagarajan, Arpit Joshi.  
-[pdf](vasigavr1.github.io/files/LRP-ASPLOS20.pdf)
+[pdf](./files/LRP-ASPLOS20.pdf)
 [video](https://www.youtube.com/watch?v=rE0dpTosYjE)
 
 
@@ -44,7 +44,7 @@ Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit
 
 __Scale-Out ccNUMA: Exploiting Skew with Strongly Consistent Caching__. EuroSys ’18.  
 Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Grot, and Vijay Nagarajan.  
-[pdf](vasigavr1.github.io/files/Scale-out-ccNUMA.pdf) 
+[pdf](./files/Scale-out-ccNUMA.pdf) 
 [slides](https://www.slideshare.net/AntoniosKatsarakis/scaleout-ccnuma-eurosys18)
 [code](https://github.com/vasigavr1/ccKVS)
 
