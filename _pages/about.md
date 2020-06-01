@@ -26,11 +26,13 @@ Vijay Nagarajan.
 [slides](https://www.slideshare.net/AntoniosKatsarakis/hermes-reliable-replication-protocol)
 [video](https://www.youtube.com/watch?v=5HwOdAjqEdE&amp=&index=8&amp=&t=0s)
 [webpage](https://hermes-protocol.com/)
+[code](https://github.com/vasigavr1/Hermes)
 
 __Lazy Release Persistency__. ASPLOS’20.  
 Mahesh Dananjaya, Vasilis Gavrielatos, Vijay Nagarajan, Arpit Joshi.  
 [pdf](vasigavr1.github.io/files/LRP-ASPLOS20.pdf)
 [video](https://www.youtube.com/watch?v=rE0dpTosYjE)
+
 
 __Kite: Efficient and Available Release Consistency for the Datacenter__. PPoPP ’20. 
 <span style="color: orangered;"> best paper nominee</span>.  
@@ -44,7 +46,7 @@ __Scale-Out ccNUMA: Exploiting Skew with Strongly Consistent Caching__. EuroSys 
 Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Grot, and Vijay Nagarajan.  
 [pdf](vasigavr1.github.io/files/Scale-out-ccNUMA.pdf) 
 [slides](https://www.slideshare.net/AntoniosKatsarakis/scaleout-ccnuma-eurosys18)
-
+[code](https://github.com/vasigavr1/ccKVS)
 
 
 
