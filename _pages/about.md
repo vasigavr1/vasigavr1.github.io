@@ -37,7 +37,8 @@ Mahesh Dananjaya, Vasilis Gavrielatos, Vijay Nagarajan, Arpit Joshi.
 __Kite: Efficient and Available Release Consistency for the Datacenter__. PPoPP ’20. 
 <span style="color: orangered;"> best paper nominee</span>.  
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi.  
-[pdf](./files/Kite_PPoPP_authors.pdf) 
+[extended version](./files/Kite_PPoPP_authors.pdf) 
+[published version](./files/Kite_PPoPP.pdf)
 [slides](https://www.slideshare.net/VasilisGavrielatos/kite-efficient-and-available-release-consistency-for-the-datacenter)
 [code](https://github.com/vasigavr1/Kite)
 
