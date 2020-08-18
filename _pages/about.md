@@ -52,8 +52,8 @@ Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Gro
 
 Blogging
 ======
-__Key-value-stores from the Lens of Shared Memory.__ ACM Sigarch
-Vijay Nagarajan, Boris Grot, Vasilis Gavrielatos and Antonis Katsarakis
+__Key-value-stores from the Lens of Shared Memory.__ ACM Sigarch May '20.  
+Vijay Nagarajan, Boris Grot, Vasilis Gavrielatos and Antonis Katsarakis  
 [link](https://www.sigarch.org/key-value-stores-from-the-lens-of-shared-memory/)
 
 
