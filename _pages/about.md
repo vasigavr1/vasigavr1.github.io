@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-__Position__: PhD student at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/))
+__Position__: PhD student at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
 
 __Interests__: Consistency enforcement in distributed systems (aka replication protocols) and multiprocessors (aka coherence protocols).
 
@@ -50,6 +50,11 @@ Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Gro
 [code](https://github.com/vasigavr1/ccKVS)
 
 
+Blogging
+======
+__Key-value-stores from the Lens of Shared Memory.__ ACM Sigarch
+Vijay Nagarajan, Boris Grot, Vasilis Gavrielatos and Antonis Katsarakis
+[link](https://www.sigarch.org/key-value-stores-from-the-lens-of-shared-memory/)
 
 
 This homepage is forked from the [academic-pages template](https://github.com/academicpages/academicpages.github.io). 
