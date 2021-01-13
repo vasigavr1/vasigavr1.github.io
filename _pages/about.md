@@ -22,6 +22,7 @@ Publications
 ASPLOS’20.  
 Antonios Katsarakis, Vasilis Gavrielatos, M. R. Siavash Katebzadeh, Arpit Joshi, Aleksandar Dragojevic, Boris Grot, 
 Vijay Nagarajan.  
+<span style="color: orangered;">	IEEE MICRO Top Picks Honourable Mention</span>  
 [pdf](./files/Hermes-ASPLOS20.pdf) 
 [slides](https://www.slideshare.net/AntoniosKatsarakis/hermes-reliable-replication-protocol)
 [video](https://www.youtube.com/watch?v=5HwOdAjqEdE&amp=&index=8&amp=&t=0s)
