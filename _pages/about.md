@@ -11,7 +11,7 @@ redirect_from:
 
 __Position__: PhD student at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
 
-__Interests__: Consistency enforcement in distributed systems (aka replication protocols) and multiprocessors (aka coherence protocols).
+__Interests__: Distributed systems and computer architecture. Specifically enforcing consistency in (fault-tolerant, RDMA-enabled) distributed systems and multiprocessors.
 
 
 Publications
@@ -36,7 +36,7 @@ Mahesh Dananjaya, Vasilis Gavrielatos, Vijay Nagarajan, Arpit Joshi.
 
 
 __Kite: Efficient and Available Release Consistency for the Datacenter__. PPoPP ’20. 
-<span style="color: orangered;"> best paper nominee</span>.  
+<span style="color: orangered;"> Best paper nominee</span>.  
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan, Boris Grot, and Arpit Joshi.  
 [extended version](./files/Kite_PPoPP_authors.pdf) 
 [published version](./files/Kite_PPoPP.pdf)
