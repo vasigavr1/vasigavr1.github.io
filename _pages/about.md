@@ -17,6 +17,11 @@ __Interests__: Distributed systems and computer architecture. Specifically enfor
 Publications
 ======
 
+ __Odyssey: The Impact of Modern Hardware on Strongly-Consistent Replication Protocols__. 
+Eurosys’21.  
+Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.  
+<span style="color: orangered;">	Conditionally Accepted</span>  
+[code](https://github.com/vasigavr1/Odyssey)
 
  __Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol__. 
 ASPLOS’20.  
