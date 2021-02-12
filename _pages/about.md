@@ -11,7 +11,10 @@ redirect_from:
 
 __Position__: PhD researcher at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
 
+__Currently on the job marker__: [CV](./files/CV-vasilis.pdf) 
+
 __Interests__: Distributed systems and computer architecture. Specifically enforcing consistency in (fault-tolerant, RDMA-enabled) distributed systems and multiprocessors.
+
 
 
 Publications
