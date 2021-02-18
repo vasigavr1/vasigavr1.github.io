@@ -24,7 +24,7 @@ Publications
 Eurosys’21.  
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.  
 <span style="color: orangered;">	Conditionally Accepted</span>  
-[code](https://github.com/vasigavr1/Odyssey)
+[draft](./files/Odyssey_Eurosys_2021.pdf) [code](https://github.com/vasigavr1/Odyssey)
 
  __Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol__. 
 ASPLOS’20.  
