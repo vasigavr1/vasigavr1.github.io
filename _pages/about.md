@@ -20,6 +20,11 @@ __Interests__: Distributed systems and computer architecture. Specifically enfor
 Publications
 ======
 
+ __Abstracting consistency enforcement protocols with real-time orderings__. 
+PaPoC’21.  
+Vasilis Gavrielatos, Vijay Nagarajan and Panagiota Fatourou.  
+
+
  __Odyssey: The Impact of Modern Hardware on Strongly-Consistent Replication Protocols__. 
 Eurosys’21.  
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.  
