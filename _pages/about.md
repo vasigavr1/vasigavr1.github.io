@@ -20,16 +20,16 @@ __Interests__: Distributed systems and computer architecture. Specifically enfor
 Publications
 ======
 
- __Abstracting consistency enforcement protocols with real-time orderings__. 
-PaPoC’21.  
-Vasilis Gavrielatos, Vijay Nagarajan and Panagiota Fatourou.  
-[draft](./files/real-time-papoc-21.pdf)
-
  __Odyssey: The Impact of Modern Hardware on Strongly-Consistent Replication Protocols__. 
 Eurosys’21.  
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.  
 <span style="color: orangered;">	Conditionally Accepted</span>  
 [draft](./files/Odyssey_Eurosys_2021.pdf) [code](https://github.com/vasigavr1/Odyssey)
+
+ __Abstracting consistency enforcement protocols with real-time orderings__. 
+PaPoC’21.  
+Vasilis Gavrielatos, Vijay Nagarajan and Panagiota Fatourou.  
+[draft](./files/real-time-papoc-21.pdf)
 
  __Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol__. 
 ASPLOS’20.  
