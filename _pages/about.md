@@ -63,6 +63,13 @@ Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Gro
 [slides](https://www.slideshare.net/AntoniosKatsarakis/scaleout-ccnuma-eurosys18)
 [code](https://github.com/vasigavr1/ccKVS)
 
+Technical Specifications
+======
+
+__A technical specification for Classic (and All-aboard) Paxos for RMWs over a 
+Key-Value Store in a multi-threaded system__ Vasilis Gavrielatos
+[pdf](.files/Paxos-spec)
+
 
 Blogging
 ======
