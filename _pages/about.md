@@ -67,7 +67,8 @@ Technical Specifications
 ======
 
 __A technical specification for Classic (and All-aboard) Paxos for RMWs over a 
-Key-Value Store in a multi-threaded system__ Vasilis Gavrielatos
+Key-Value Store in a multi-threaded system__   
+Vasilis Gavrielatos
 [pdf](.files/Paxos-spec)
 
 
