@@ -11,7 +11,6 @@ redirect_from:
 
 __Position__: PhD researcher at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
 
-__Currently on the job market__: [CV](./files/CV-vasilis.pdf) 
 
 __Interests__: Distributed systems and computer architecture. Specifically enforcing consistency in (fault-tolerant, RDMA-enabled) distributed systems and multiprocessors.
 
@@ -26,7 +25,7 @@ Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.
 <span style="color: orangered;">	Conditionally Accepted</span>  
 [draft](./files/Odyssey_Eurosys_2021.pdf) [code](https://github.com/vasigavr1/Odyssey)
 
- __Abstracting consistency enforcement protocols with real-time orderings__. 
+ __Towards the Synthesis of Coherence/Replication Protocols from Consistency Models via Real-Time Orderings__. 
 PaPoC’21.  
 Vasilis Gavrielatos, Vijay Nagarajan and Panagiota Fatourou.  
 [draft](./files/real-time-papoc-21.pdf)
