@@ -65,10 +65,9 @@ Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Gro
 Technical Specifications
 ======
 
-__A technical specification for Classic (and All-aboard) Paxos for RMWs over a 
-Key-Value Store in a multi-threaded system__   
-Vasilis Gavrielatos
-[pdf](./files/Paxos_spec.pdf)
+__Extending Classic Paxos for High-performance Read-Modify-Write Registers__   
+Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.  
+[pdf](./files/Paxos_spec.pdf) [arXiv](https://arxiv.org/abs/2103.14701)
 
 
 Blogging
