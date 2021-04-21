@@ -22,13 +22,13 @@ Publications
  __Odyssey: The Impact of Modern Hardware on Strongly-Consistent Replication Protocols__. 
 Eurosys’21.  
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.  
-<span style="color: orangered;">	Conditionally Accepted</span>  
-[draft](./files/Odyssey_Eurosys_2021.pdf) [code](https://github.com/vasigavr1/Odyssey)
+[pdf](./files/Odyssey_Eurosys_2021.pdf) [code](https://github.com/vasigavr1/Odyssey)
+[video](https://www.youtube.com/watch?v=QBwGhxPiTyI)
 
  __Towards the Synthesis of Coherence/Replication Protocols from Consistency Models via Real-Time Orderings__. 
 PaPoC’21.  
 Vasilis Gavrielatos, Vijay Nagarajan and Panagiota Fatourou.  
-[draft](./files/real-time-papoc-21.pdf)
+[pdf](./files/real-time-papoc-21.pdf)
 
  __Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol__. 
 ASPLOS’20.  
