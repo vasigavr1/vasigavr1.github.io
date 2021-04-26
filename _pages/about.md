@@ -29,6 +29,7 @@ Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.
 PaPoC’21.  
 Vasilis Gavrielatos, Vijay Nagarajan and Panagiota Fatourou.  
 [pdf](./files/real-time-papoc-21.pdf)
+[video](https://www.youtube.com/watch?v=fe-uxY7cPTY)
 
  __Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol__. 
 ASPLOS’20.  
