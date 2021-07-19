@@ -20,8 +20,8 @@ Publications
 ======
 
 __Avocado: A Secure In-Memory Distributed Storage System__. ATC'21  
-Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, Le Quoc Do, Vijay Nagarajan, Pramod Bhatotia  
-
+Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, Le Quoc Do, Vijay Nagarajan, Pramod Bhatotia.    
+[pdf-slides-video](https://www.usenix.org/conference/atc21/presentation/bailleu)
 
  __Odyssey: The Impact of Modern Hardware on Strongly-Consistent Replication Protocols__. 
 Eurosys’21.  
