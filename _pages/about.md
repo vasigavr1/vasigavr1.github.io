@@ -67,12 +67,15 @@ Vasilis Gavrielatos, Antonios Katsarakis, Arpit Joshi, Nicolai Oswald, Boris Gro
 [slides](https://www.slideshare.net/AntoniosKatsarakis/scaleout-ccnuma-eurosys18)
 [code](https://github.com/vasigavr1/ccKVS)
 
-Technical Specifications
-======
 
 __Extending Classic Paxos for High-performance Read-Modify-Write Registers__   
 Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.  
-[pdf](./files/Paxos_spec.pdf) [arXiv](https://arxiv.org/abs/2103.14701)
+[pdf](./files/Paxos_spec.pdf) [arXiv](https://arxiv.org/abs/2103.14701)  
+
+
+__Designing the Replication Layer of a General-Purpose Datacenter Key-Value Store__. PhD thesis.  
+Vasilis Gavrielatos.  
+[pdf](./files/thesis.pdf)  
 
 
 Blogging
