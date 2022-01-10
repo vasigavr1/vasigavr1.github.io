@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-__Position__: Currently on Huawei Research UK. Formerly, PhD researcher at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
+__Position__: Currently on Huawei Research UK.   
+Formerly, PhD researcher at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
 
 
 __Interests__: Distributed systems and computer architecture. Specifically enforcing consistency in (fault-tolerant, RDMA-enabled) distributed systems and multiprocessors.
@@ -18,6 +19,10 @@ __Interests__: Distributed systems and computer architecture. Specifically enfor
 
 Publications
 ======
+__HeteroGen: Automatic Synthesis of Heterogeneous
+Cache Coherence Protocols__. HPCA '22  
+Nicolai Oswald, Vijay Nagarajan, Daniel J. Sorin, Vasilis Gavrielatos, Theo Olausson, Reece Carr.  
+[pdf](./files/heterogen-hpca-22.pdf)
 
 __Avocado: A Secure In-Memory Distributed Storage System__. ATC'21  
 Maurice Bailleu, Dimitra Giantsidi, Vasilis Gavrielatos, Le Quoc Do, Vijay Nagarajan, Pramod Bhatotia.    

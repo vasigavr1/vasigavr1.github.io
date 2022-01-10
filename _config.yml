@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Vasilis Gavrielatos"
 title_separator          : "-"
 name                     : &name "Vasilis Gavrielatos"
-description              : &description "PhD researcher at University of Edinburgh"
+description              : &description "Researcher at Huawei Research UK"
 url                      : https://vasigavr1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vasigavr1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vasilis Gavrielatos"
   avatar           : "profile.png"
-  bio              : "PhD researcher at the University of Edinburgh"
+  bio              : "Researcher at Huawei Research, UK, Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
