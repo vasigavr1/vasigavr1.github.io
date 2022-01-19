@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-__Position__: Currently on Huawei Research UK.   
+__Position__: Currently at Huawei Research UK.   
 Formerly, PhD researcher at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
 
 
