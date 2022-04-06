@@ -13,7 +13,8 @@ __Position__: Currently at Huawei Research UK.
 Formerly, PhD researcher at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
 
 
-__Interests__: Distributed systems and computer architecture. Specifically enforcing consistency in (fault-tolerant, RDMA-enabled) distributed systems and multiprocessors.
+__Interests__: Distributed systems and computer architecture. Specifically, building the next generation of 
+datastores that will leverage emerging hardware technologies to offer very high throughput and low latency.
 
 
 
