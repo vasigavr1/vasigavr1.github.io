@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-__Position__: Currently at Huawei Research UK.   
-Formerly, PhD researcher at the University of Edinburgh, supervised by [Vijay Nagarajan](https://homepages.inf.ed.ac.uk/vnagaraj/)
+__Position__: Senior Researcher in the  Database team of Huawei Research UK.   
 
 
 __Interests__: Distributed systems and computer architecture. Specifically, building the next generation of 
@@ -81,14 +80,17 @@ Vasilis Gavrielatos, Antonios Katsarakis, Vijay Nagarajan.
 
 __Designing the Replication Layer of a General-Purpose Datacenter Key-Value Store__. PhD thesis.  
 Vasilis Gavrielatos.  
-[pdf](./files/thesis.pdf)  
+[pdf](./files/thesis.pdf)
 
-
-Blogging
-======
 __Key-value-stores from the Lens of Shared Memory.__ ACM Sigarch Blog May '20.  
 Vijay Nagarajan, Boris Grot, Vasilis Gavrielatos and Antonis Katsarakis  
 [link](https://www.sigarch.org/key-value-stores-from-the-lens-of-shared-memory/)
+
+Service
+=====
+PC member:  ASPLOS'23, PaPoC'23
+
+
 
 
 This homepage is forked from the [academic-pages template](https://github.com/academicpages/academicpages.github.io). 
