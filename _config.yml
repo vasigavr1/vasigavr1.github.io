@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Vasilis Gavrielatos, PhD"
+title                    : "Vasilis Gavrielatos"
 title_separator          : "-"
 name                     : &name "Vasilis Gavrielatos"
 description              : &description "Researcher at Huawei Research UK"
