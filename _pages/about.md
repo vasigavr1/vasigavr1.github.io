@@ -15,13 +15,20 @@ __Position__: Senior Researcher in the  Database team of Huawei Research UK.
 __Interests__: Distributed systems and computer architecture. Specifically, building the next generation of 
 datastores that will leverage emerging hardware technologies to offer very high throughput and low latency.
 
+<span style="color: orangered;">	__Looking for interns:__ </span> 
+to work in the above vision in Huawei Research center in Edinburgh;
+with freedom to make their own contributions and publish their work. (positions are open all year round.)
 
+Service
+=====
+PC member: PaPoC'23,  ASPLOS'23, ASPLOS'24
 
 Publications
 ======
 __HeteroGen: Automatic Synthesis of Heterogeneous
 Cache Coherence Protocols__. HPCA '22  
 Nicolai Oswald, Vijay Nagarajan, Daniel J. Sorin, Vasilis Gavrielatos, Theo Olausson, Reece Carr.  
+<span style="color: orangered;">	IEEE MICRO Top Picks </span>    
 [pdf](./files/heterogen-hpca-22.pdf)
 
 __Avocado: A Secure In-Memory Distributed Storage System__. ATC'21  
@@ -86,9 +93,7 @@ __Key-value-stores from the Lens of Shared Memory.__ ACM Sigarch Blog May '20.
 Vijay Nagarajan, Boris Grot, Vasilis Gavrielatos and Antonis Katsarakis  
 [link](https://www.sigarch.org/key-value-stores-from-the-lens-of-shared-memory/)
 
-Service
-=====
-PC member:  ASPLOS'23, PaPoC'23
+
 
 
 
