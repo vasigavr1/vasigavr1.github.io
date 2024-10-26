@@ -15,9 +15,6 @@ __Position__: Senior Researcher in the  Database team of Huawei Research UK.
 __Interests__: Distributed systems and computer architecture. Specifically, building the next generation of 
 datastores that will leverage emerging hardware technologies to offer very high throughput and low latency.
 
-<span style="color: orangered;">	__Looking for interns:__ </span> 
-to work in the above vision in Huawei Research center in Edinburgh;
-with freedom to make their own contributions and publish their work. (positions are open all year round.)
 
 Service
 =====
@@ -25,6 +22,15 @@ PC member: PaPoC'23,  ASPLOS'23, ASPLOS'24
 
 Publications
 ======
+
+__Dandelion: In-Memory Distributed Transactions with Few Machines__. VLDB '25 (to appear)  
+Vasilis Gavrielatos, Antonis Katsarakis, Chris Jensen, Nikos Ntarmos.  
+[pdf](./files/Dandelion.pdf)
+
+__DLHT: A Non-blocking Resizable Hashtable with Fast Deletes and Memory-awareness__. HPDC '24  
+Vasilis Gavrielatos, Antonis Katsarakis, Nikos Ntarmos.  
+[pdf](./files/dlht.pdf)
+
 __HeteroGen: Automatic Synthesis of Heterogeneous
 Cache Coherence Protocols__. HPCA '22  
 Nicolai Oswald, Vijay Nagarajan, Daniel J. Sorin, Vasilis Gavrielatos, Theo Olausson, Reece Carr.  
