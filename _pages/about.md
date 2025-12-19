@@ -23,9 +23,18 @@ PC member: PaPoC'23,  ASPLOS'23, ASPLOS'24
 Publications
 ======
 
-__Dandelion: In-Memory Distributed Transactions with Few Machines__. VLDB '25 (to appear)  
+__Dandelion: Smaller Clusters, Bigger Speeds—Distributed Transactions Redefined__. VLDB '25  
 Vasilis Gavrielatos, Antonis Katsarakis, Chris Jensen, Nikos Ntarmos.  
 [pdf](./files/Dandelion.pdf)
+
+__The LAW theorem: Local Reads and Linearizable Asynchronous Replication__. VLDB '25  
+Antonis Katsarakis, Vasilis Gavrielatos, Emmanouil Giortamis, Pramod Bhatotia, Aleksandar Dragojevic,
+ Boris Grot, Vijay Nagarajan, Panagiota Fatourou.  
+[pdf](./files/LawTheorem.pdf)
+
+__Fast, Highly Available, and Recoverable Transactions on Disaggregated Data Stores__ EDBT '25  
+Mahesh Dananjaya, Vasilis Gavrielatos, Antonis Katsarakis, Nikos Ntarmos, Vijay Nagarajan.  
+[pdf](./files/Pandora.pdf)
 
 __DLHT: A Non-blocking Resizable Hashtable with Fast Deletes and Memory-awareness__. HPDC '24  
 Vasilis Gavrielatos, Antonis Katsarakis, Nikos Ntarmos.  
