@@ -12,8 +12,8 @@ redirect_from:
 __Position__: Senior Researcher in the  Database team of Huawei Research UK.   
 
 
-My expertise spans Databases, Computer Architecture, C/C++ and multi-threaded programming.
-Since 2023, I have been working on optimizing the vectorized exeuction engine of GaussDB, which is now the fastest engine of all that we have measured (TPC-h).
+My expertise spans Databases, Computer Architecture, C/C++ and multi-threaded programming.  
+Since 2023, I have been working on optimizing the vectorized exeuction engine of GaussDB, which is now the fastest engine of all that we have measured (TPC-h).  
 Previously, I had built DLHT (world's fastest hashtable), Dandelion (world's fastest distribued transactions) and Odyssey (world's fastest RDMA library).
 
 
