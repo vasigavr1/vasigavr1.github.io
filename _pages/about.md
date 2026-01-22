@@ -9,20 +9,18 @@ redirect_from:
 ---
 
 
-__Position__: Senior Researcher in the  Database team of Huawei Research UK.   
+I'm a Senior Software Engineer on the Database team at Huawei Research UK, working remotely from Greece.
+
+I build high-performance systems. Since 2023, I've been optimizing GaussDB's vectorized execution engine—now the fastest we've benchmarked on TPC-H. Before that, I built DLHT (a non-blocking resizable hashtable), Dandelion (distributed transactions), and Odyssey (an RDMA replication library), each achieving state-of-the-art performance.
+
+My background is in databases, computer architecture, and low-level C/C++ programming.
 
 
-My expertise spans Databases, Computer Architecture, C/C++ and multi-threaded programming.  
-Since 2023, I have been working on optimizing the vectorized exeuction engine of GaussDB, which is now the fastest engine of all that we have measured (TPC-h).  
-Previously, I had built DLHT (world's fastest hashtable), Dandelion (world's fastest distribued transactions) and Odyssey (world's fastest RDMA library).
+## Service
 
+PC member: PaPoC'23, ASPLOS'23, ASPLOS'24
 
-Service
-=====
-PC member: PaPoC'23,  ASPLOS'23, ASPLOS'24
-
-Publications
-======
+## Publications
 
 __Dandelion: Smaller Clusters, Bigger Speeds—Distributed Transactions Redefined__. VLDB '25  
 Vasilis Gavrielatos, Antonis Katsarakis, Chris Jensen, Nikos Ntarmos.  
