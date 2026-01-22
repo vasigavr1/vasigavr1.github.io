@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a Senior Software Engineer on the Database team at Huawei Research UK, working remotely from Greece.
 
-I build high-performance systems. Since 2023, I've been optimizing GaussDB's vectorized execution engine—now the fastest we've benchmarked on TPC-H. Before that, I built DLHT (a non-blocking resizable hashtable), Dandelion (distributed transactions), and Odyssey (an RDMA replication library), each achieving state-of-the-art performance.
+I build high-performance systems. Since 2023, I've been optimizing GaussDB's vectorized execution engine—now the fastest we've benchmarked. Before that, I built Dandelion (distributed transactions), Odyssey (RDMA-based replication protocols) and DLHT (a non-blocking resizable hashtable), each achieving state-of-the-art performance.
 
 My background is in databases, computer architecture, and low-level C/C++ programming.
 
